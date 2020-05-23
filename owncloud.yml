@@ -1,0 +1,6 @@
+user: USERNAME
+pwd: 'SECRET'
+URL: https://SERVER/owncloud/remote.php/webdav/BBB
+work_dir: /var/bigbluebutton/recording/scalelite
+spool_dir: /owncloud
+
