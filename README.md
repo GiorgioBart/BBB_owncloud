@@ -13,6 +13,8 @@ Creare le due folder:
 `/var/bigbluebutton/recording/scalelite`
 e `/owncloud`
 
+Le due folder devono essere scrivibili dall'utente `bigbluebutton:bigbluebutton`
+
 # script
 
 il file `cowncloud_post_publish.rb` deve essere copiato in 
@@ -20,4 +22,11 @@ il file `cowncloud_post_publish.rb` deve essere copiato in
 Il file `owncloud.yml` deve essere copiato in
 `/usr/local/bigbluebutton/core/scripts/`
 
+# configurazione
+modoficare utente, password e URL del server owncloud nel file `owncloud.yml`
 
+
+
+# log
+Per debug o in caso di problemi far riferimento al log:
+`bbb-rap-worker.log` presente in `/var/log/bigbluebutton/`
