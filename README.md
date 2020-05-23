@@ -17,7 +17,7 @@ Le due folder devono essere scrivibili dall'utente `bigbluebutton:bigbluebutton`
 
 # script
 
-il file `cowncloud_post_publish.rb` deve essere copiato in 
+il file `owncloud_post_publish.rb` deve essere copiato in 
 `/usr/local/bigbluebutton/core/scripts/post_publish`
 Il file `owncloud.yml` deve essere copiato in
 `/usr/local/bigbluebutton/core/scripts/`
