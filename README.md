@@ -23,7 +23,7 @@ Il file `owncloud.yml` deve essere copiato in
 `/usr/local/bigbluebutton/core/scripts/`
 
 # configurazione
-modoficare utente, password e URL del server owncloud nel file `owncloud.yml`
+modificare utente, password e URL del server owncloud nel file `owncloud.yml`
 
 
 
